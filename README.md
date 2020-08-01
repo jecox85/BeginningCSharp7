@@ -1,4 +1,7 @@
 # Beginning C# 7 Programming with Visual Studio 2017
+
+This repository was forked on 8-1-2020 and will be used as I go through the text and complete projects and questions related to the text.
+
 The code and descriptions of C# and the .NET Framework found in this repository apply to C# 7 and .NET 4.7. You don't need anything other than the .NET Framework to understand this aspect of the book, but many of the examples require a development tool. The code stored here was writtten using Visual Studio Community 2017 as its primary development tool.  Use Visual Studio Community 2017 to create Windows, cloud and cross-platform applications as well as SQL Server Express for applications that access databases. Some functionality is available only in Visual Studio 2017, but this won't stop you from working through any of the examples in this book.
 
 Code samples are available for these chapters:
